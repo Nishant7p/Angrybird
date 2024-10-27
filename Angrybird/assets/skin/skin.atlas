@@ -1,0 +1,17 @@
+button-up
+  rotate: false
+  xy: 0, 0
+  size: 300, 80
+  orig: 300, 80
+  offset: 0, 0
+  index: -1
+
+button-down
+  rotate: false
+  xy: 0, 80
+  size: 300, 80
+  orig: 300, 80
+  offset: 0, 0
+  index: -1
+
+
