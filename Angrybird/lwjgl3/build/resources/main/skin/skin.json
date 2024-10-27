@@ -1,0 +1,10 @@
+{
+  "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+    "default": {
+      "up": { "image": "button-up.png" },
+      "down": { "image": "button-down.png" },
+      "font": "font"
+    }
+  }
+}
+
