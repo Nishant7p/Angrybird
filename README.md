@@ -18,7 +18,7 @@ We have broken down our main game into 4 files.
 1. Go to branch named `new-branch-name`
 2. There you will see 4 files. Decompress `main angrybirds.zip`
 3. Add that jar file in `lwjgl/build/libs`
-4. Add remaining zip and a tar file in `lwjgl/build/dependencies`
+4. Add remaining zip and a tar file in `lwjgl/build/distributions`
 5. Open in IntelliJ
 6. Run Lwjgl launcher
 
