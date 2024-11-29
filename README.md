@@ -24,4 +24,6 @@ We have broken down our main game into 4 files.
 
 ---
 
-Also, we considered that our...
+Also, we considered that Small pig if fall on  ground gets killed , mediumpig and bigpig has more health they are not affected by groung but by blocks unlike small pig also all the oigs directly gets killed if bird directly collide with them 
+
+whersas block only take damage by the birds not because we were unable to do that given thing but we supposed this one makes more sense and we also asked the ta and he say this is fine
