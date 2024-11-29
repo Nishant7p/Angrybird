@@ -7,4 +7,14 @@ we were unable to upload complete zip file as github was saying maximum of 100 m
 and run Lwjgl launcher that wil simply run our game 
 also we werre unable to configure our project gradle so we look that on net as mentioned by 1 ta only gradle part is looked upon for ju unit testing 
 
+to run our game via github We have roken down our main game into 4 files 
+    1 Go to branch named new-branch-name>
+    2 There u will see 4 files decompress main angrybirds.zip
+    3 add that jar file in lwjgl/build/libs
+    4 add remaining zip and a tar file in lwjgl/build/dependencies
+    5 open in intellij
+    6 run lwjgl launcher
+
+
+
 also we considered that our 
